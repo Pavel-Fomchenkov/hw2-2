@@ -1,4 +1,5 @@
 public abstract class Hogwarts {
+
     private String name;
     private int wizardry, teleportation;
 
